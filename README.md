@@ -1,9 +1,24 @@
-# Denis Portfolio
+# Denis James – Backend Engineer Portfolio
 
-This is a portfolio website showcasing my backend engineering work for SaaS and payment integration projects.
+Modern developer portfolio built with React, Vite, and TailwindCSS.
 
-## Tech Stack
+## 🔥 Focus
+
+- SaaS Backend Architecture
+- Payment Integrations (Stripe & Flutterwave)
+- Subscription Systems
+- REST API Development
+- Secure Authentication & Role-Based Access
+
+## 🛠 Tech Stack
 
 - React + Vite
-- Node.js, Express, Prisma, PostgreSQL (backend projects)
-- Stripe & Flutterwave integrations
+- TailwindCSS
+- Node.js
+- Express
+- Prisma
+- PostgreSQL
+
+## 🌍 Live Site
+
+Deployed with Vercel.
